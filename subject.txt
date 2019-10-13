@@ -3,3 +3,6 @@ subjects
 web programming
 DBMS
 software engineering
+
+i will add some subjects
+java
